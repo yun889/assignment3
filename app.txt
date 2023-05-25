@@ -1,5 +1,5 @@
 app ver 0.3
 
-appname = "alom"
+appname = "atom"
 add login
 add logout
