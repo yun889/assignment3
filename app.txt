@@ -1,0 +1,3 @@
+app ver 0.1
+
+appname = "alom"
