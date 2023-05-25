@@ -1,5 +1,6 @@
-app ver 0.3
+app ver 0.4
 
 appname = "alom"
 add login
 add logout
+add quit
