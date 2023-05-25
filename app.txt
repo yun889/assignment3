@@ -1,3 +1,4 @@
-app ver 0.1
+app ver 0.2
 
 appname = "alom"
+add login
